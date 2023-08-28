@@ -1,4 +1,3 @@
-print("  Python  ".lstrip())           
 #MANIPULANDO STRINGS
 
 curso = "pYtHon"
